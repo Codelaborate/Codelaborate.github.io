@@ -569,7 +569,9 @@
 					-o-transform: translateZ(0);
 					-ms-transform: translateZ(0);
 					transform: translateZ(0);
-					
+				}
+
+				.shadowed-content {
 					background-color: rgba(0, 0, 0, 0.6);
 					box-shadow: 0 0 5px 10px rgba(0, 0, 0, 0.6);
 				}
