@@ -574,6 +574,7 @@
 				.shadowed-content {
 					background-color: rgba(0, 0, 0, 0.6);
 					box-shadow: 0 0 5px 10px rgba(0, 0, 0, 0.6);
+					border-radius: 20px;
 				}
 				
 			.main.style1.inactive {
